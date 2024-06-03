@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Lámpara</string>
+    <string name="strinicio">Inicio</string>
+    <string name="strtempo">Temporizador</string>
+    <string name="strconect">Conectarse</string>
+    <string name="opcion">Opcion seleccionada</string>
+    <string name="msgtempo">Establece el temporizador</string>
+    <string name="iniciatempo">Iniciar temporizador</string>
+    <string name="btnreinicio">Reiniciar</string>
+</resources>
